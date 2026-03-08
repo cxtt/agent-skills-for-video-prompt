@@ -1,0 +1,14 @@
+# 基础通用忽略规则
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+# 自定义忽略
+*.md.bak
+temp/
